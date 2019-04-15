@@ -1,38 +1,24 @@
 
 
 ###################
-Faça sua Placa Contadora de Inscritos do Youtube em Tempo Real com Arduino Wemos ESP8266 (DIY)
+Crie um Sensor de Estacionamento para sua Garagem com Arduíno - Parte 1 (Protótipo)
 ###################
 
-Neste vídeo vamos criar uma placa contadora de inscritos do Youtube um ótimo Gadget para quem tem um canal e deseja ficar motivado com seu crescimento.
+Neste vídeo vamos criar um propótipo de um sensor de estacionamento para uso em garagens, o objetivo principal é ter um sensor capaz de verificar a distancia do carro e a parede e assim evitar colisões durante a manobra.
 
 *******************
-Link com instruções em vídeo: https://youtu.be/etRQlDA965I
+Link com instruções em vídeo: 
 *******************
 
 Lista de Dispositivos:
 
-- 1 Wemos D1 Mini;
-- 1 Display 20×4 LCD I2C;
-- 1 Protoboard para Testes; (Opcional)
-- 4 Jumpers;
-- 1 Cabo USB/Micro USB (para enviar o código para a Placa).
-- 1 PowerBank (Caso queira usar o dispositivo sem um carregador de celular).
+- 1 Arduíno Uno;
+- 1 Protoboard;
+- 12 Jumpers Macho/Macho;
+- 1 Led Verde;
+- 1 Led Vermelho;
+- 2 Resistores 300 ohms;
+- 1 Bazzer;
 
-Bibliotecas:
-
-- Arduino JSON: https://github.com/bblanchon/ArduinoJson
-- Liquid Crystal para ESP8266: https://github.com/esp8266/Basic/tree/master/libraries/LiquidCrystal
- 
-Instalação do drive da Wemos D1 mini no Arduino:
-
-- Adicione este link nas preferências: http://arduino.esp8266.com/versions/2.3.0/package_esp8266com_index.json
-
-Opcionais:
-
-- 1 Quadro de Madeira;
-- Tinta para pintura;
-- Impressão da Arte do Canal;
-
-
+Todos os dispositivos usados neste vídeo você encontra no Kit de Arduino Iniciante V8 da Robocore neste Link: http://bit.ly/2UfXYvK
 
