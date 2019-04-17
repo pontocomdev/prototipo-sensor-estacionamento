@@ -1,7 +1,7 @@
 
 
 ###################
-Crie um Sensor de Estacionamento para sua Garagem com Arduíno - Parte 1 (Protótipo)
+Crie um Sensor de Estacionamento para sua Garagem com Arduíno (Protótipo)
 ###################
 
 Neste vídeo vamos criar um protótipo de um sensor de estacionamento para uso em garagens, o objetivo principal é ter um sensor capaz de verificar a distancia do carro e a parede e assim evitar colisões durante a manobra.
