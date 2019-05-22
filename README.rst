@@ -19,6 +19,7 @@ Lista de Dispositivos:
 - 1 Led Vermelho;
 - 2 Resistores 300 ohms;
 - 1 Bazzer;
+- 1 Sensor de Ultrassom HC-SR04
 
 Todos os dispositivos usados neste vídeo você encontra no Kit de Arduino Iniciante V8 da Robocore neste Link: http://bit.ly/2UfXYvK
 
