@@ -1,8 +1,3 @@
-/******************************************************************************/
-/*          Projeto: Protótipo Sensor para Estacionamento em Garagem          */
-/*                     PontoCanal - Ponto Makers                              */
-/******************************************************************************/
-
 //Configuração de Distancia Mínima em centimetros
 const int distancia_carro = 10; 
 
